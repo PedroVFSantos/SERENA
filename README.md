@@ -2,8 +2,8 @@
 ![serena](https://github.com/user-attachments/assets/188b718e-b398-48e9-bf1b-224f248d2f6a)
 
 
-##FIGMA
-![Figma Design](design.png)
+FIGMA:
+https://www.figma.com/design/LAEFw4FDCoUvsUXj43XHMl/grupo05?node-id=0-1&p=f 
 
 ## Overview
 SERENA is a comprehensive health monitoring application built with Flutter that tracks various vital signs including heart rate, stress levels, step count, and body temperature. The app features real-time monitoring, data visualization, and alert systems for critical health parameters.
@@ -150,3 +150,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
